@@ -2,8 +2,5 @@
         "favourite_movie": "Gone with the wind",
         "favourite_series": "La casa de papel",
         "favourite_season": "summer",
-        "I_want_to_visit": [
-                        "1st_priority": "Italy",
-                        "2nd_proirity": "Spain"
-                        ]
+        "I_want_to_visit": ["Spain", "Italy"]
 }
